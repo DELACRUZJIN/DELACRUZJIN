@@ -22,7 +22,9 @@ GitHub: https://github.com/DELACRUZJIN
 
 Facebook:https://www.facebook.com/bambilladelacruz.jinky
 
-I am an IT student who wants to learn more about technology. I  am eager to gain new knowledge and improve my skills. I enjoy exploring how technology works.
+**School:** University of Abra
+
+I am an IT student who wants to learn more about technology, I am 19 years old and I am an 2nd year student. I  am eager to gain new knowledge and improve my skills. I enjoy exploring how technology works.
 I am open to new challenges and experiences. I want to grow and improve in the field of IT.
 
 ##  Skills
